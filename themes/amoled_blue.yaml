@@ -67,3 +67,4 @@ AMOLED Blue:
   # Dropdowns
   material-background-color: var(--secondary-background-color)
   material-secondary-background-color: var(--primary-background-color)
+  mdc-theme-surface: var(--secondary-background-color)
